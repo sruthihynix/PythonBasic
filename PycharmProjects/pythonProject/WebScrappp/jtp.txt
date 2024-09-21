@@ -1,0 +1,29 @@
+What is Python
+Python 2 vs. Python 3 
+Java vs Python Program
+Python Basic Syntax
+Python History
+Why learn Python?
+Where is Python used?
+Python Popular Frameworks and Libraries
+Python print() Function
+Taking Input to the User
+Python Operators
+Python Conditional Statements
+Python Loops
+Python Data Structures
+Python Functional Programming
+Python File I/O
+Python Modules
+Python Exceptions
+Python CSV
+Python Sending Mail
+Python Magic Methods
+Python Oops Concepts
+Python Advance Topics
+Python Database Connections
+Python CGI
+Prerequisite
+Audience
+Problem
+Help Others, Please Share
